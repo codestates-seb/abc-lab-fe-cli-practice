@@ -6,6 +6,10 @@ function getListMultiplesOfTwo(upTo) {
   for (let i = 2; i <= upTo; i += 2) {
     arr.push(i)
   }
+
+
+
+  
   return arr
 }
 
